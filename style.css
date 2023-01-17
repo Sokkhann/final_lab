@@ -1,0 +1,96 @@
+#galaxy {
+    height: 100vh;
+    width: 100%;
+}
+
+.bg-light {
+    background-color: rgba(188, 185, 185, 0.8)!important;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: black;
+}
+
+.text {
+    font-size: 21px;
+    color: white;
+    margin-right: 21px;
+}
+
+.home-page {
+    background-image: url(https://img.freepik.com/premium-vector/illustration-space_29937-1093.jpg?w=1060);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer-page {
+    background-image: url(https://img.freepik.com/free-vector/falling-stars-beautiful-night-background_23-2148273840.jpg?w=900&t=st=1673921900~exp=1673922500~hmac=d6138d237f0dd03564f6ec8e8029222b6f96ae58e4c28d36b24a413cb2841140);
+    height: 30%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-title {
+    padding-top: 6rem;
+    color: white;
+    height: 100%;
+    background-color: rgba(0, 0, 0,0.3);
+}
+
+#row {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#column {
+    margin-top: 3rem;
+    right: 0;
+}
+
+#footer {
+    margin-top: 3rem;
+    justify-content: center;
+    background-color: black;
+}
+
+#dark {
+    border-color: black;
+}
+
+#row-planet {
+    margin-top: 3.8rem;
+}
+
+#texth {
+    margin-top: 3rem;
+    padding-left: 1rem;
+    font-family:'Audiowide', cursive;
+    font-size: 3rem;
+    color: white;
+}
+
+#textm {
+    font-family:'Audiowide', cursive;
+    font-size: 3rem;
+    padding-top: 1.2rem;
+}
+#text {
+    color: white;
+    font-family: 'Satisfy', cursive;
+    padding-top: 2rem;
+    font-size: 1.2rem;
+    padding-left: 1rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.navbar-brand {
+    font-family: 'Mrs Sheppards', cursive!important;
+}
